@@ -13,7 +13,9 @@ You usually don't worry about SEO etc., for enterprise webapps., and only about 
 
 Both offer fast performance, however, Angular 2+ seems to have an edge.
 
---insert comparison image here--
+
+[https://pbs.twimg.com/media/CLMtsNrWUAAe4LZ.jpg]
+
 
 ## Mobile and Desktop
 

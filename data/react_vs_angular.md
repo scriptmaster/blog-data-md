@@ -14,7 +14,7 @@ You usually don't worry about SEO etc., for enterprise webapps., and only about 
 Both offer fast performance, however, Angular 2+ seems to have an edge.
 
 
-[https://pbs.twimg.com/media/CLMtsNrWUAAe4LZ.jpg]
+![performance](https://pbs.twimg.com/media/CLMtsNrWUAAe4LZ.jpg "React and Angular performance")
 
 
 ## Mobile and Desktop

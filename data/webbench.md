@@ -20,4 +20,4 @@
 
 ### Notes
 
-nginx -> proxy_pass -> proxy_cache -> memcache zone -> memcached -> redis cluster -> openresty redis module
+http -> nginx -> proxy_pass -> proxy_cache -> memcache zone -> memcached -> redis cluster -> openresty redis module

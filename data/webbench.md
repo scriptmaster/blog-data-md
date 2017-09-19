@@ -2,7 +2,7 @@
 ## ab -c 100 -n 100000
 
 + OpenResty file: 14.9k rps
-+ OpenResty echo: 17.6k rps
++ OpenResty echo: 17k rps
 + spirit: 9k rps
 + micro: 8.7k rps
 + njs http: 8.4k rps
@@ -15,4 +15,4 @@
 
   +nginx 404/403: 50k rps WOW !
   + OpenResty file: 29.7k rps
-  
+  + OpenResty echo: 17.6k rps

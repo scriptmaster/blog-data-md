@@ -16,3 +16,8 @@
   +nginx 404/403: 50k rps WOW !
   + OpenResty file: 29.7k rps
   + OpenResty echo: 17.6k rps
+
+
+### Notes
+
+nginx -> proxy_pass -> proxy_cache -> memcache zone -> memcached -> redis cluster -> openresty redis module

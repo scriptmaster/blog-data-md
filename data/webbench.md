@@ -34,3 +34,4 @@ http -> nginx -> proxy_pass -> proxy_cache -> memcache zone -> memcached -> redi
 ## OpenResty lua
 
  + ngx.say 15.5k rps
+ + templating: k rps

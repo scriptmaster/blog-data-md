@@ -14,5 +14,5 @@
 ## With Keep Alive:
 
   +nginx 404/403: 50k rps WOW !
-  + OpenResty file: 14.9k rps
+  + OpenResty file: 29.7k rps
   
